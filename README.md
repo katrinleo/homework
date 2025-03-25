@@ -32,3 +32,4 @@ poetry install
 4. **Активировать виртуальное окружение Poetry:**
 ```bash
 poetry shell
+```
