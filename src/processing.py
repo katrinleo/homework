@@ -8,6 +8,6 @@ def filter_by_state(data: list[dict], state: str = "EXECUTED") -> list[dict]:
     return output_data
 
 
-def sort_by_date(data: list[dict], bool_parameter: bool = True) -> list[dict]:
+def sort_by_date(data: list[dict], descending: bool = True) -> list[dict]:
     """функиия принимает список словарей и сортирует по дате"""
-    return sorted(data, key=lambda x: x["date"], reverse=bool_parameter)
+    return sorted(data, key=lambda x: x["date"], reverse=descending)
