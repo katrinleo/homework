@@ -1,0 +1,12 @@
+line-length = 119
+exclude =
+    .venv,
+    venv,
+    env,
+    .env,
+    .tox,
+    dist,
+    doc,
+    *eggs,
+    *.egg,
+    migrations
