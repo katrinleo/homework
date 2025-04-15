@@ -12,6 +12,7 @@ mypy = "^1.15.0"
 black = "^25.1.0"
 isort = "^6.0.1"
 pytest = "^8.3.5"
+coverage = "^7.8.0"
 
 [build-system]
 requires = ["poetry-core"]
