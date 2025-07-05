@@ -1,0 +1,8 @@
+2025-06-03 14:51:01,990 - utils - DEBUG - Начало загрузки Json файла в path_to_file=/private/var/folders/p0/rkvcmgcs6dq04c3p0878zwz40000gn/T/pytest-of-kat/pytest-10/test_load_json_list_valid0/operations.json
+2025-06-03 14:51:01,990 - utils - DEBUG - Файл успешно прочитан
+2025-06-03 14:51:01,991 - utils - DEBUG - Начало загрузки Json файла в path_to_file=/private/var/folders/p0/rkvcmgcs6dq04c3p0878zwz40000gn/T/pytest-of-kat/pytest-10/test_load_json_list_empty_file0/empty.json
+2025-06-03 14:51:01,991 - utils - ERROR - Файл не найден или пустой, путь: path_to_file=/private/var/folders/p0/rkvcmgcs6dq04c3p0878zwz40000gn/T/pytest-of-kat/pytest-10/test_load_json_list_empty_file0/empty.json
+2025-06-03 14:51:01,991 - utils - DEBUG - Начало загрузки Json файла в path_to_file=nonexistent_file.json
+2025-06-03 14:51:01,991 - utils - ERROR - Файл не найден или пустой, путь: path_to_file=nonexistent_file.json
+2025-06-03 14:51:01,992 - utils - DEBUG - Начало загрузки Json файла в path_to_file=data/operations.json
+2025-06-03 14:51:01,992 - utils - DEBUG - Файл успешно прочитан
